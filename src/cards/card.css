@@ -1,0 +1,18 @@
+.github-profile {
+  margin: 1rem;
+}
+
+.info {
+  vertical-align: top;
+  display: inline-block;
+  margin-left: 12px;
+}
+
+.name {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+img {
+  width: 75px;
+}

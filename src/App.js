@@ -1,11 +1,11 @@
 import React from "react";
 import "./styles.css";
-import Promises from "./modernjs/Promises";
+import { Profiles } from "./cards/Profiles";
 
 export default function App() {
   return (
     <div>
-      <Promises />
+      <Profiles />
     </div>
   );
 }
