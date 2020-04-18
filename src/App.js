@@ -1,11 +1,11 @@
 import React from "react";
 import "./styles.css";
-import { Profiles } from "./cards/Profiles";
+import { StarMatchGame } from "./star/StarMatchGame";
 
 export default function App() {
   return (
     <div>
-      <Profiles />
+      <StarMatchGame />
     </div>
   );
 }
